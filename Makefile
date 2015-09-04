@@ -32,6 +32,12 @@ SOURCES		:=	source
 DATA		:=	data
 INCLUDES	:=	include
 
+APP_TITLE	:=	3DS_Pages
+APP_DESCRIPTION	:=	Dumper of misc app and related kernel meta-data
+APP_AUTHOR	:=	nopy4869
+APP_ICON	:=	$(CTRULIB)/default_icon.png
+
+
 #---------------------------------------------------------------------------------
 # options for code generation
 #---------------------------------------------------------------------------------
